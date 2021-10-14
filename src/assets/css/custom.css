@@ -1,0 +1,22 @@
+.vee_error_label {
+  color: red;
+  /* position: absolute; */
+  left: 0;
+  font-size: 0.8em;
+}
+.text-black {
+  color: black;
+}
+.active-link {
+  color: #000 !important;
+  font-weight: 600 !important;
+}
+.cs2-heading {
+  font-size: 22px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.cs2-heading {
+  font-size: 28px;
+}
